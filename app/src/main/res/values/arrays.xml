@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipo_comparendo">
+        <item>@string/tipo_comp_luz_roja</item>
+        <item>@string/tipo_comp_mal_parqueo</item>
+        <item>@string/tipo_comp_papeles_vencidos</item>
+    </string-array>
+    <string-array name="tipo_comparendo_filtrar">
+        <item>@string/tipo_comp_todos</item>
+        <item>@string/tipo_comp_luz_roja</item>
+        <item>@string/tipo_comp_mal_parqueo</item>
+        <item>@string/tipo_comp_papeles_vencidos</item>
+    </string-array>
+</resources>
